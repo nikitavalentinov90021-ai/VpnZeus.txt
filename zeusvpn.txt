@@ -1,10 +1,3 @@
-#profile-title: 📶 Zeus | LTE
-#announce:❗️ Данный конфиг только для мобильного интернета!
-
-#profile-update-interval: 2
-#support-url: https://t.me/QuorvoxTeam
-#profile-web-page-url: http://t.me/QuorVPN?direct
-
 vless://efe29f06-e584-4e28-90f2-63d714ddb13a@151.101.111.119:443?security=tls&type=xhttp&headerType=&path=%2F&host=ov1.global.ssl.fastly.net&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=127.0.0&fp=chrome&alpn=h3&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20Telegram%3A%20%40HappVPN
 vless://efe29f06-e584-4e28-90f2-63d714ddb13a@77.110.105.45:54443?security=tls&type=tcp&headerType=none&path=&host=&sni=max.ru&fp=chrome&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%5BNL%5D%20%D0%94%D0%BB%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%20%F0%9F%92%A1
 vless://efe29f06-e584-4e28-90f2-63d714ddb13a@77.110.105.45:54444?security=tls&type=tcp&headerType=none&path=&host=&sni=max.ru&fp=chrome&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%A9%5BPL%5D%20%D0%94%D0%BB%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%20%F0%9F%92%A1
